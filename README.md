@@ -6,7 +6,9 @@ Most recently I have been doing iOS development. This work includes an app for
 [Marquette University](https://itunes.apple.com/us/app/marquette-university/id530216413?mt=8) 
 and a music app called [SonicMax Pro](https://itunes.apple.com/us/app/sonicmax-pro/id478366186?mt=8). 
 The music app was featured at CES as a part of the [JVC version](http://sonicmax.jvc.com/) which 
-integrates with their car stereo and headsets.
+integrates with their car stereo, docks and headsets. 
+
+You can see [a video of the app on YouTube](http://www.youtube.com/watch?v=EQXp5PGolRg).
 
 I've also published several R&D projects here on GitHub, such as the following:
 
