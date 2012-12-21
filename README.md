@@ -11,7 +11,7 @@ integrates with their car stereo and headsets.
 I've also published several R&D projects here on GitHub, such as the following:
 
 1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time
-2. [Optimized Networking](https://github.com/brennanMKE/OptimizedNetworking) - code I used to learn to use NSOperation and now using often
+2. [Optimized Networking](https://github.com/brennanMKE/OptimizedNetworking) - code I used to learn to use NSOperation and now use regularly
 3. [Photo Zoom](https://github.com/brennanMKE/PhotoZoom) - Sample Project which I use in multiple projects now
 4. [Multiple Targets](https://github.com/brennanMKE/MultipleTargets) - Sample Project with a list of steps to build multiple versions of apps from a single project
 
