@@ -15,7 +15,8 @@ I've also published resources I've created and useful sample projects here on Gi
 1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time
 2. [Optimized Networking](https://github.com/brennanMKE/OptimizedNetworking) - code I used to learn to use NSOperation and now use regularly
 3. [Photo Zoom](https://github.com/brennanMKE/PhotoZoom) - Sample Project which I use in multiple projects now
-4. [Multiple Targets](https://github.com/brennanMKE/MultipleTargets) - Sample Project with a list of steps to build multiple versions of apps from a single project
+4. [Interfaces](https://github.com/brennanMKE/Interfaces) - Experiments with iOS interfaces like the SideBar UI and more to come
+5. [Multiple Targets](https://github.com/brennanMKE/MultipleTargets) - Sample Project with a list of steps to build multiple versions of apps from a single project
 
 I find that Open Source helps me share what I have learned and allow others to share feedback with me on my work. 
 It comes in especiallyhandy when I am using 
