@@ -1,7 +1,7 @@
 Portfolio
 =========
 
-My name is Brennan Stehling and I have been developing software since I was in grade school. 
+My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have been developing software since I was in grade school. 
 Most recently I have been doing iOS development. In the past couple of years I have worked on the following
 projects.
 
@@ -27,6 +27,7 @@ It comes in especially handy when I am using
 [Stackoverflow](http://stackoverflow.com/users/10366/brennan) when I can directly 
 link to one of my GitHub projects so others can see the code and access it easily.
 
-I can be found on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) 
+I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and
+on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) 
 or my company account @[smallsharptools](https://twitter.com/smallsharptools). 
 I also have an account on [App.net](https://alpha.app.net/smallsharptools).
