@@ -1,15 +1,20 @@
 Portfolio
 =========
 
-My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have been developing software since I was in grade school. 
-Most recently I have been doing iOS development. In the past couple of years I have worked on the following
-projects.
+My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have been doing software development for
+many years from Perl to Java to .NET and now with iOS. The 2 most recent projects which are publicly availabl in the
+App Store include the following.
 
 * [Marquette University](https://itunes.apple.com/us/app/marquette-university/id530216413?mt=8) 
 * [SonicMax Pro](https://itunes.apple.com/us/app/sonicmax-pro/id478366186?mt=8)
 
-The music app was featured at CES as a part of the [JVC version](http://sonicmax.jvc.com/) which 
-integrates with their car stereo, docks and headsets. 
+The app built for Marquette is meant to be a primary app which acts as a hub for the other apps which will be created
+for niche purposes for the Marquette student, staff and alumni communities. It is very visual to leverae the many
+create photos available from Marquette as well as the great screen on the iPhone. Users can use the map to find places
+on campus and search contacts for staff so users can reach them by phone or email.
+
+SonicMax Pro processes audio in realtime and was featured at CES as a part of the [JVC version](http://sonicmax.jvc.com/) 
+which  integrates with their car stereo, docks and headsets. 
 You can see [a video of the app on YouTube](http://www.youtube.com/watch?v=EQXp5PGolRg).
 I have also worked on other iOS projects for 
 use privately as a business tool which are not in the App Store.
