@@ -10,14 +10,14 @@ App Store include the following.
 
 The app built for Marquette is meant to be a primary app which acts as a hub for the other apps which will be created
 for niche purposes for the Marquette student, staff and alumni communities. It is very visual to leverage the many
-create photos available from Marquette as well as the great screen on the iPhone. Users can use the map to find places
+great photos available from Marquette as well as the great screen on the iPhone. Users can use the map to find places
 on campus and search contacts for staff so users can reach them by phone or email.
 
 SonicMax Pro processes audio in realtime and was featured at CES as a part of the [JVC version](http://sonicmax.jvc.com/) 
 which  integrates with their car stereo, docks and headsets. 
 You can see [a video of the app on YouTube](http://www.youtube.com/watch?v=EQXp5PGolRg).
 I have also worked on other iOS projects for 
-use privately as a business tool which are not in the App Store.
+use privately as business tools which are not in the App Store.
 
 I've also published resources and sample projects I've created on GitHub, such as the following:
 
@@ -36,3 +36,4 @@ I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and
 on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) 
 or my company account @[smallsharptools](https://twitter.com/smallsharptools). 
 I also have an account on [App.net](https://alpha.app.net/smallsharptools).
+
