@@ -21,9 +21,9 @@ use privately as business tools which are not in the App Store.
 
 I've also published resources and sample projects I've created on GitHub, such as the following:
 
-1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time
+1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time which I've easy for others to use as well
 2. [Optimized Networking](https://github.com/brennanMKE/OptimizedNetworking) - code I used to learn to use NSOperation and now use regularly
-3. [Photo Zoom](https://github.com/brennanMKE/PhotoZoom) - Sample Project which I use in multiple projects now
+3. [Photo Zoom](https://github.com/brennanMKE/PhotoZoom) - Sample Project like the Photos app which I use in multiple projects now
 4. [Interfaces](https://github.com/brennanMKE/Interfaces) - Experiments with iOS interfaces like the SideBar UI and more to come
 5. [Multiple Targets](https://github.com/brennanMKE/MultipleTargets) - Sample Project with a list of steps to build multiple versions of apps from a single project
 
@@ -36,4 +36,3 @@ I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and
 on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) 
 or my company account @[smallsharptools](https://twitter.com/smallsharptools). 
 I also have an account on [App.net](https://alpha.app.net/smallsharptools).
-
