@@ -21,7 +21,7 @@ use privately as business tools which are not in the App Store.
 
 I've also published resources and sample projects I've created on GitHub, such as the following:
 
-1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time which I've easy for others to use as well
+1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time which I've made easy for others to use as well
 2. [Optimized Networking](https://github.com/brennanMKE/OptimizedNetworking) - code I used to learn to use NSOperation and now use regularly
 3. [Photo Zoom](https://github.com/brennanMKE/PhotoZoom) - Sample Project like the Photos app which I use in multiple projects now
 4. [Interfaces](https://github.com/brennanMKE/Interfaces) - Experiments with iOS interfaces like the SideBar UI and more to come
