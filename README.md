@@ -27,6 +27,7 @@ I've also published resources and sample projects I've created on GitHub, such a
 4. [Interfaces](https://github.com/brennanMKE/Interfaces) - Experiments with iOS interfaces like the SideBar UI and more to come
 5. [Multiple Targets](https://github.com/brennanMKE/MultipleTargets) - Sample Project with a list of steps to build multiple versions of apps from a single project
 6. [ADN Activities Collection](https://github.com/brennanMKE/ADNActivityCollection) - Activities for sharing content to App.net clients
+7. [Bitly for iOS](https://github.com/brennanMKE/BitlyForiOS) for shortening URLs to share via Twitter, SMS and other services.
 
 I find that Open Source helps me share what I have learned and allow others to share feedback with me on my work. 
 It comes in especially handy when I am using 
