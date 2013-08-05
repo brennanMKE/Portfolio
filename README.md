@@ -7,9 +7,11 @@ My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I
 
 The app built for Marquette is meant to be a primary app which acts as a hub for the other apps which will be created for niche purposes for the Marquette student, staff and alumni communities. The MU Tours app is used to help prospective students and new students to get to know the campus. Both of the Marquette apps are very visual to leverage the many great photos available in their archives as well as the iPhone's Retina display. Users can use the map to find places on campus and search contacts for staff so users can reach them by phone or email.
 
-SonicMax Pro processes audio in realtime and was featured at CES as a part of the [JVC version](http://sonicmax.jvc.com/) which  integrates with their car stereo, docks and headsets.  You can see [a video of the app on YouTube](http://www.youtube.com/watch?v=EQXp5PGolRg). I have also worked on other iOS projects for  use privately as business tools which are not in the App Store.
+SonicMax Pro processes audio in realtime. A [JVC version](http://sonicmax.jvc.com/) was featured at CES. It integrates with their car stereo, docks and headsets.  You can see [a feature video of the app on YouTube](http://www.youtube.com/watch?v=EQXp5PGolRg). 
 
-I also value constantly learning and publish my work on GitHub as I experiment and create solutions which may be useful to others. Always learning has been especially important with iOS because it has been rapidly changing over the past few years. Below is a sample of my work that has been made Open Source on GitHub:
+I have also worked on other iOS projects for  use privately as business tools which are not in the App Store as well as other apps which are not listed here.
+
+I value constantly learning and publish my work on GitHub as I experiment and create solutions which may be useful to others. Always learning has been especially important with iOS because it has been rapidly changing over the past few years. Below is a sample of my work that has been made Open Source on GitHub:
 
 1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time which I've made easy for others to use as well
 2. [Optimized Networking](https://github.com/brennanMKE/OptimizedNetworking) - code I used to learn to use NSOperation and now use regularly
