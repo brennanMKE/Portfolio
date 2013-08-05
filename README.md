@@ -11,7 +11,7 @@ SonicMax Pro processes audio in realtime. A [JVC version](http://sonicmax.jvc.co
 
 I have also worked on other iOS projects for  use privately as business tools which are not in the App Store as well as other apps which are not listed here.
 
-I value constantly learning and publish my work on GitHub as I experiment and create solutions which may be useful to others. Always learning has been especially important with iOS because it has been rapidly changing over the past few years. Below is a sample of my work that has been made Open Source on GitHub:
+I value constantly learning and publish my work on GitHub as I experiment and create solutions which may be useful to others. Always learning has been especially important with iOS because it has been rapidly changing over the past few years. Below is a sample of the work I have made available as Open Source on GitHub:
 
 1. [Xcode snippets](https://github.com/brennanMKE/Xcode4CodeSnippets) - various snippets I use all the time which I've made easy for others to use as well
 2. [Optimized Networking](https://github.com/brennanMKE/OptimizedNetworking) - code I used to learn to use NSOperation and now use regularly
@@ -20,5 +20,7 @@ I value constantly learning and publish my work on GitHub as I experiment and cr
 5. [Multiple Targets](https://github.com/brennanMKE/MultipleTargets) - Sample Project with a list of steps to build multiple versions of apps from a single project
 6. [ADN Activities Collection](https://github.com/brennanMKE/ADNActivityCollection) - Activities for sharing content to App.net clients
 7. [Bitly for iOS](https://github.com/brennanMKE/BitlyForiOS) for shortening URLs to share via Twitter, SMS and other services.
+
+I frequently reference other projects on GitHub and occasionally fork projects and send Pull Requests for any improvements I have made. It is a good challenge to fork an established project get a Pull Request accepted. It has helped me guage where I am as a developer and get useful feedback from other developers.
 
 I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) or my company account @[smallsharptools](https://twitter.com/smallsharptools). I also have an account on [App.net](https://alpha.app.net/smallsharptools).
