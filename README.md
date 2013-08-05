@@ -21,6 +21,6 @@ I value constantly learning and publish my work on GitHub as I experiment and cr
 6. [ADN Activities Collection](https://github.com/brennanMKE/ADNActivityCollection) - Activities for sharing content to App.net clients
 7. [Bitly for iOS](https://github.com/brennanMKE/BitlyForiOS) for shortening URLs to share via Twitter, SMS and other services.
 
-I frequently reference other projects on GitHub and occasionally fork projects and send Pull Requests for any improvements I have made. It is a good challenge to fork an established project get a Pull Request accepted. It has helped me guage where I am as a developer and get useful feedback from other developers.
+I frequently reference other projects on GitHub and occasionally fork projects and send Pull Requests for any improvements I have made. It is a good challenge to fork an established project and get a Pull Request accepted. It has helped me guage where I am as a developer and get useful feedback from other developers.
 
 I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) or my company account @[smallsharptools](https://twitter.com/smallsharptools). I also have an account on [App.net](https://alpha.app.net/smallsharptools).
