@@ -1,7 +1,4 @@
-Portfolio
-=========
-
-My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have been doing software development for many years from Perl to Java to .NET and now iOS. I've built multipl apps which are available in the App Store. Below is a sample of a few of them.
+My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have been doing software development for many years from Perl to Java to .NET and now iOS. I've built multiple apps which are available in the App Store. Below is a sample of a few of them.
 
 * [Marquette University](https://itunes.apple.com/us/app/marquette-university/id530216413?mt=8) 
 * [MU Tours](https://itunes.apple.com/us/app/mu-tours/id630099239?mt=8)
