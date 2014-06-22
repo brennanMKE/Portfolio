@@ -23,4 +23,4 @@ I value constantly learning and publish my work on GitHub as I experiment and cr
 
 I frequently reference other projects on GitHub and occasionally fork projects and send Pull Requests for any improvements I have made. It is a good challenge to fork an established project and get a Pull Request accepted. It has helped me guage where I am as a developer and get useful feedback from other developers.
 
-I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) or my company account @[smallsharptools](https://twitter.com/smallsharptools). I also have an account on [App.net](https://alpha.app.net/smallsharptools).
+I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) or my company account @[smallsharptools](https://twitter.com/smallsharptools). 
