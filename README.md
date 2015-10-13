@@ -1,13 +1,16 @@
 My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have been doing software development for many years from Perl to Java to .NET and now iOS. I've built multiple apps which are available in the App Store. Below is a sample of a few of them.
 
-* [Marquette University](https://itunes.apple.com/us/app/marquette-university/id530216413?mt=8) 
+* [SpotHopper](https://itunes.apple.com/us/app/spothopper/id853828436?mt=8)
+* [Marquette University](https://itunes.apple.com/us/app/marquette-university/id530216413?mt=8)
 * [MU Tours](https://itunes.apple.com/us/app/mu-tours/id630099239?mt=8)
 * [SonicMax Pro](https://itunes.apple.com/us/app/sonicmax-pro/id478366186?mt=8)
 * [SonicMax Pro for JVC](https://itunes.apple.com/us/app/sonicmax-pro-for-jvc/id496329233?mt=8)
 
+In 2014 I worked for a startup called SpotHopper which is an app used to discover bars and drinks using a backend database of places and drink menus. The app has a very custom UI with many interactions with the backend through web API calls.
+
 The app built for Marquette is meant to be a primary app which acts as a hub for the other apps which will be created for niche purposes for the Marquette student, staff and alumni communities. The MU Tours app is used to help prospective students and new students to get to know the campus. Both of the Marquette apps are very visual to leverage the many great photos available in their archives as well as the iPhone's Retina display. Users can use the map to find places on campus and search contacts for staff so users can reach them by phone or email.
 
-SonicMax Pro processes audio in realtime. A [JVC version](http://sonicmax.jvc.com/) was featured at CES. It integrates with their car stereo, docks and headsets.  You can see [a feature video of the app on YouTube](http://www.youtube.com/watch?v=EQXp5PGolRg). 
+SonicMax Pro processes audio in realtime. A [JVC version](http://sonicmax.jvc.com/) was featured at CES. It integrates with their car stereo, docks and headsets.  You can see [a feature video of the app on YouTube](http://www.youtube.com/watch?v=EQXp5PGolRg).
 
 I have also worked on other iOS projects for  use privately as business tools which are not in the App Store as well as other apps which are not listed here.
 
@@ -23,4 +26,4 @@ I value constantly learning and publish my work on GitHub as I experiment and cr
 
 I frequently reference other projects on GitHub and occasionally fork projects and send Pull Requests for any improvements I have made. It is a good challenge to fork an established project and get a Pull Request accepted. It has helped me guage where I am as a developer and get useful feedback from other developers.
 
-I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) or my company account @[smallsharptools](https://twitter.com/smallsharptools). 
+I can be found on [LinkedIn](http://www.linkedin.com/in/smallsharptools/) and on Twitter as @[brennanMKE](https://twitter.com/brennanMKE) or my company account @[smallsharptools](https://twitter.com/smallsharptools).
