@@ -7,7 +7,7 @@ My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I
 * [SonicMax Pro](https://itunes.apple.com/us/app/sonicmax-pro/id478366186?mt=8)
 * [SonicMax Pro for JVC](https://itunes.apple.com/us/app/sonicmax-pro-for-jvc/id496329233?mt=8)
 
-In early 2016 I gave a talk at the [Swift Language Users Group](http://www.meetup.com/swift-language/) called [Conquering Your Fear of Adopting Swift](https://realm.io/news/slug-brennan-stehling-conquering-fear-adopting-swift/)
+In early 2016 I gave a talk at the [Swift Language Users Group](http://www.meetup.com/swift-language/) called [Conquering Your Fear of Adopting Swift](https://realm.io/news/slug-brennan-stehling-conquering-fear-adopting-swift/). At the time Swift 2 usage was spreading with Swift 3 expected to be released at WWDC in June. Many companies have still continued working with Objective-C despite the many benefits of Swift. I addressed the benefits, risks and strategies of adopting Swift so it is not such an intimidating fact of building apps for iOS, tvOS, watchOS and OS X. More and more every day companies are making the change as are the thousands of iOS engineers who are transitioning to Swift from Objective-C.
 
 In 2015 I moved to the Bay Area and started working for startups. One client has been Wynd Technologies which had me build Air Bubbles which is an iPhone app built in Swift to display air quality information for several countries. I planned and built the app and prepared a junior iOS engineer to take over maintenance of the app.
 
