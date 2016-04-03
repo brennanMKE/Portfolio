@@ -1,4 +1,4 @@
-My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have been doing software development for many years from Perl to Java to .NET and now iOS. I've built multiple apps which are available in the App Store. Below is a sample of a few of them.
+My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have worked as a software engineer with various technologies for many years including web and iOS. I've built multiple apps which are available in the App Store. Below is a sample of a few of them.
 
 * [Air Bubbles](https://itunes.apple.com/us/app/air-bubbles-air-quality-in/id1048903719?mt=8) (My first Swift app)
 * [SpotHopper](https://itunes.apple.com/us/app/spothopper/id853828436?mt=8)
@@ -7,9 +7,11 @@ My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I
 * [SonicMax Pro](https://itunes.apple.com/us/app/sonicmax-pro/id478366186?mt=8)
 * [SonicMax Pro for JVC](https://itunes.apple.com/us/app/sonicmax-pro-for-jvc/id496329233?mt=8)
 
-In 2015 I moved to the Bay Area and started working for startups. One client has been Wynd Technologies which had me build Air Bubbles which is an iPhone app built in Swift to display air quality information for several countries. I planned and built the app and prepared a junior iOS to take over maintenance of the app.
+In early 2016 I gave a talk at the [Swift Language Users Group](http://www.meetup.com/swift-language/) called [Conquering Your Fear of Adopting Swift](https://realm.io/news/slug-brennan-stehling-conquering-fear-adopting-swift/)
 
-In 2014 I worked for a startup called SpotHopper which is an app used to discover bars and drinks using a backend database of places and drink menus. The app has a very custom UI with many interactions with the backend through web API calls.
+In 2015 I moved to the Bay Area and started working for startups. One client has been Wynd Technologies which had me build Air Bubbles which is an iPhone app built in Swift to display air quality information for several countries. I planned and built the app and prepared a junior iOS engineer to take over maintenance of the app.
+
+In 2014 I worked for a startup called [SpotHopper](http://www.spothopperapp.com) which is an app used to discover bars and drinks using a backend database of places and drink menus. The app has a very custom UI with many interactions with the backend through web API calls.
 
 The app built for Marquette is meant to be a primary app which acts as a hub for the other apps which will be created for niche purposes for the Marquette student, staff and alumni communities. The MU Tours app is used to help prospective students and new students to get to know the campus. Both of the Marquette apps are very visual to leverage the many great photos available in their archives as well as the iPhone's Retina display. Users can use the map to find places on campus and search contacts for staff so users can reach them by phone or email.
 
