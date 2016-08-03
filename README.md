@@ -1,6 +1,6 @@
 My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have worked as a software engineer with various technologies for many years including web and iOS. I've built multiple apps which are available in the App Store. Below is a sample of a few of them.
 
-*Update:* Air Bubbles is now out of Beta. Anne Bleker wrote up an overview of 
+*Update:* Air Bubbles is now out of Beta. Anna Bleker wrote up an overview of 
 [the process of creating the app](https://medium.com/@annableker/how-we-built-an-air-quality-app-and-why-it-was-harder-than-we-thought-1a6d756798e#.9l118tl1s). I enjoyed helping them getting the first several updates out to
 the App Store. It was the first app I built with Swift.
 
