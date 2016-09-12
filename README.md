@@ -1,8 +1,10 @@
 My name is [Brennan Stehling](http://www.linkedin.com/in/smallsharptools/) and I have worked as a software engineer with various technologies for many years including web and iOS. I've built multiple apps which are available in the App Store. Below is a sample of a few of them.
 
-*Update:* Air Bubbles is now out of Beta. Anna Bleker wrote up an overview of 
-[the process of creating the app](https://medium.com/@annableker/how-we-built-an-air-quality-app-and-why-it-was-harder-than-we-thought-1a6d756798e#.9l118tl1s). I enjoyed helping them getting the first several updates out to
-the App Store. It was the first app I built with Swift.
+### Latest
+
+My most recent work has been with [StravaKit](https://github.com/brennanMKE/StravaKit) which is an Open Source project which is an API client for Strava. I created it to deepen my experience with Swift and experiment with techniques to improve code coverage with unit tests. This project currently has 99% code coverage.
+
+### iOS Apps
 
 * [Air Bubbles](https://itunes.apple.com/us/app/air-bubbles-air-quality-in/id1048903719?mt=8) (My first Swift app)
 * [SpotHopper](https://itunes.apple.com/us/app/spothopper/id853828436?mt=8)
@@ -14,6 +16,9 @@ the App Store. It was the first app I built with Swift.
 In early 2016 I gave a talk at the [Swift Language Users Group](http://www.meetup.com/swift-language/) called [Conquering Your Fear of Adopting Swift](https://realm.io/news/slug-brennan-stehling-conquering-fear-adopting-swift/). At the time Swift 2 usage was spreading with Swift 3 expected to be released at WWDC in June. Many companies have still continued working with Objective-C despite the many benefits of Swift. I addressed the benefits, risks and strategies of adopting Swift so it is not such an intimidating fact of building apps for iOS, tvOS, watchOS and OS X. More and more every day companies are making the change as are the thousands of iOS engineers who are transitioning to Swift from Objective-C.
 
 In 2015 I moved to the Bay Area and started working for startups. One client has been Wynd Technologies which had me build Air Bubbles which is an iPhone app built in Swift to display air quality information for several countries. I planned and built the app and prepared a junior iOS engineer to take over maintenance of the app.
+
+Air Bubbles is the first app I've released to the App Store built with Swift. This was a client project under contract with Anna Bleker who wrote up an overview of 
+[the process of creating the app](https://medium.com/@annableker/how-we-built-an-air-quality-app-and-why-it-was-harder-than-we-thought-1a6d756798e#.9l118tl1s). I enjoyed helping the getting the first several updates out to the App Store.
 
 In 2014 I worked for a startup called [SpotHopper](http://www.spothopperapp.com) which is an app used to discover bars and drinks using a backend database of places and drink menus. The app has a very custom UI with many interactions with the backend through web API calls.
 
